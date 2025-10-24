@@ -1,2 +1,11 @@
 **/data/
 99_개인/
+
+*.txt
+
+*.gz
+*w2v
+*tsv
+*.html
+*.vocab
+*.csv
